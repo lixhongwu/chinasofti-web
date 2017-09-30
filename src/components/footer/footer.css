@@ -1,0 +1,39 @@
+/*
+* @Author: anchen
+* @Date:   2017-09-30 15:02:41
+* @Last Modified by:   hx
+* @Last Modified time: 2017-09-30 17:16:21
+*/
+.footer{
+    position: fixed;
+    left:0;
+    bottom: 0;
+    width:100%;
+    height:68px;
+    background-color: #eee;
+    border-top: 1px solid #eee;
+    
+}
+
+.footer .item{
+    width:100%;
+    height:100%;
+    display:flex;
+}
+
+.footer .item li{
+    flex:1;
+    text-align:center;
+    padding-top: 10px;
+
+}
+
+.item li i{
+
+}
+
+.item li a:hover{
+    color:red;
+}
+
+@import "../../common/css/font-awesome.min.css"
