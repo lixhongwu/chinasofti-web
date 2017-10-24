@@ -8,4 +8,4 @@ npm install
 npm run dev
 
 #  构建生产
-npm run buildates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+npm run build
