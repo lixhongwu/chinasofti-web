@@ -1,0 +1,20 @@
+.middle-navbar{
+	overflow: hidden;
+	position: relative;
+	height: auto;
+}
+.middle-navbar>li{
+	float: left;
+	width: 25%;
+	text-align: center;
+	padding: 0.285714rem;
+}
+.middle-navbar>li>a{
+	font-size: 0.4rem;
+	color: silver;
+}
+.middle-navbar>li img{
+	display:block;
+	width: 34%;
+	margin: 0 auto;
+}

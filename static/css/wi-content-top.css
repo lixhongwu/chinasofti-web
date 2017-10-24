@@ -1,0 +1,36 @@
+.wi-content-top ul{
+	font-size: 0.914285rem;
+	padding: 0.857142rem;
+}
+.wi-content-top ul li{
+	padding:0.285714rem 0;
+}
+.wict-H1 h2,.wict-price{
+	font-size:1.2rem;
+}
+.wi-content-top .mui-numbox .mui-btn{
+	width: 36px;
+}
+.wi-content-top #test{
+	width: 30px !important;
+	border: none !important;
+}
+.wi-content-top .mui-numbox{
+	width:102px;
+	height: 100%;
+	padding-left: 36px;
+}
+.wi-content-top ul span{
+	padding-right: 0.571428rem;
+}
+.wi-content-top ul .lpadding-span{
+	padding: 0 0 0 0.571428rem;
+}
+.wi-content-top .redspan{
+	padding: 0.057142rem 0.571428rem;
+	display: inline-block;
+	border-radius: 0.285714rem;
+	background-color: #dd524d;
+	color: white;
+	margin-right:0.571428rem;
+}

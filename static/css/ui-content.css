@@ -1,0 +1,62 @@
+.ui-content .mui-navigate-right span{
+		position: absolute;
+		right: 2rem;
+	}
+	.ui-content-touxian{
+		line-height: 5.142857rem;
+	}
+	.ui-content-touxian img{
+		position: absolute;
+		top: 50%;
+        right: 15px;
+        width: 4rem;
+        -webkit-transform: translateY(-50%);
+    	transform: translateY(-50%);
+	}
+	#uic-nichen input,#uic-phone input{
+		height:2rem;
+		font-size: 0.914285rem;
+	}
+	#uic-nichen .mui-btn-block,#uic-phone .mui-btn-block,#uic-default-address .mui-btn-block{
+		padding: 0.428571rem 0;
+		font-size: 0.914285rem;
+	}
+	.ui-content .mui-collapse .mui-navigate-right:after{
+		content: '\e583' !important;
+	}
+	#uic-phone .uic-sms{
+		width: 50%;
+	}
+	#uic-phone h5{
+		padding-bottom: 0.571428rem;
+	}
+	#uic-default-address .mui-collapse-content{
+		padding: 0;
+		background-color: transparent;
+		font-size: 0.914285rem;
+	}
+	#uic-default-address .mui-checkbox{
+		display: inline-block;
+	}
+	#uic-default-address .mui-checkbox label{
+		display: inline;
+	}
+	#uic-default-address .mui-checkbox input[type=checkbox]{
+		position:relative;
+		top: 0;
+		left: 0;
+		right: 0;
+	}
+	#uic-default-address .mui-checkbox.mui-left label{
+		padding:0;
+	}
+	#uic-default-address .mui-input-group{
+		margin: 0;
+	}
+	#uic-default-address .mui-collapse-content>button{
+		margin: 0.171428rem 0 0;
+	}
+	.mui-dtpicker-header .mui-btn-blue,.mui-poppicker-header .mui-btn-blue{
+		background-color: #ec971f;
+		border-color: #ec971f;
+	}
