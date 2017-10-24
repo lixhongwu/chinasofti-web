@@ -1,0 +1,27 @@
+
+
+{
+"ids": "2",
+"goodsId": "101",
+"skuCode": null,
+"skuSalePrice": 49.9,
+"skuMarketPrice": 80,
+"skuCostPrice": null,
+"skuOptionIds": null,
+"skuOptionNames": "商户介绍测试数据商户介绍测试数据商户介绍测试数据商户介绍测试数据商户介绍测试数据商户介绍测试数据商户介绍测试数据商户介绍测试数据商户介绍测试数据",
+"skuStock": 999,
+"skuSales": 100,
+"createUser": null,
+"createTime": null,
+"modifyUser": null,
+"modifyTime": null,
+"deleteStatus": null,
+"creater": null,
+"modifier": null,
+"myskuCode": null,
+"title": "智利牛油果6个装",
+"contents": "牛油果商品详情测试数据 //商品详情",
+"params": "2.5kg/箱//规格",
+"files": null,
+"inventorys": "售后测试数据售后测试数据售后测试数据 //售后"
+}

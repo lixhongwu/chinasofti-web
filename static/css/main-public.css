@@ -1,0 +1,73 @@
+.margins{
+	margin-top:0.571428rem;
+}
+.headers{
+	position: relative;
+}
+.tops{
+	overflow: hidden;
+	width:100%;
+}
+.tops>div:first-child{
+	width: 40%;
+	text-align: center;
+}
+.tops>div{
+	float: left;
+	padding: 0.571428rem 0.285714rem;
+}
+.tops>div:last-child{
+	width: 60%;
+}
+.tops p:last-child{
+	padding-top: 1.428571rem;
+}
+.tops>div span:nth-child(1){
+	padding-right: 0.571428rem;
+}
+.bottoms{
+	overflow: hidden;
+	width:100%;
+}
+.bottoms>div{
+	float: left;
+	width: 33.333%;
+	text-align: center;
+	padding: 0.285714rem;
+	border-top: 0.005714rem solid silver;
+}
+.bottoms>div:nth-child(2){
+	border-left:0.005714rem solid silver ;
+	border-right:0.005714rem solid silver ;
+}
+
+.contentss>ul>li{
+	overflow: hidden;
+	width: 100%;
+	padding: 0.571428rem;
+}
+.contentss>ul>li>div{
+	float: left;
+}
+.contentss>ul>li>div:last-child{
+	padding-left: 1.142857rem;
+}
+.contentss>ul>li>div:last-child>p:first-child{
+	font-weight: bold;
+}
+.contentss>ul>li>div:last-child>p:last-child{
+	padding-top: 0.571428rem;
+}
+.contentss>ul>li>div:last-child>p:last-child>span:first-child{
+	padding-right: 0.571428rem;
+}
+.img{
+	width: 100%;
+	background-color: white;
+}
+.img>img{
+	width: 100%;
+}
+.wMax{
+	width: 100%;
+}
